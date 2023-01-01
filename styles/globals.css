@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .skills-round-line {
+      @apply flex justify-center items-center outline-4 outline rounded-full w-20 h-20 outline-yellow-500 lg:w-24 lg:m-auto lg:h-24;
+    }
+  }
