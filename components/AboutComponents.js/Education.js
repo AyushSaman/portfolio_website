@@ -20,7 +20,7 @@ function Education() {
                     <li className='col-span-4 space-y-3'>
                         <p className='bg-slate-100 w-fit p-2 rounded-full'>July/2022 - PRESENT</p>
                         <h3>WEB DEVELOPER <span>- INNOVESTEGIA CONSULTING</span></h3>
-                        <p>Working as on product name localbajar.com that targets local venders & small shop-owners to make their own offers for specific customers. For more info <a href="https://www.localbajar.com" target="_blank" rel="noopener noreferrer" className='text-blue-400'>click here.</a></p>
+                        <p>I am developing a project localbajar.com and successfully created An event manager app.</p>
                     </li>
                 </ul>
                 <ul className="grid grid-cols-5 gap-4 mb-14 lg:w-2/4">
@@ -31,7 +31,7 @@ function Education() {
                     <li className='col-span-4 space-y-3'>
                         <p className='bg-slate-100 w-fit p-2 rounded-full'>2021</p>
                         <h3>PARTICIPATED WEB DEVELOPMENT BOOTCAMP<span> - UDEMY</span></h3>
-                        <p>I enrolled <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank" rel="noopener noreferrer" className='text-blue-400'>Web development bootcamp</a> on Udemy. However I also learn a lot of from watching tutorials on Youtube and reading Articles & Documentations.</p>
+                        <p>I enrolled <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank" rel="noopener noreferrer" className='text-blue-400'>Web development bootcamp</a> on Udemy. And also I learn a lot of from watching tutorials on Youtube and reading Articles & Documentations.</p>
                     </li>
                 </ul>
 

@@ -50,7 +50,7 @@ export default function Home() {
             <h2>WEB DEVELOPER</h2>
           </div>
           <div><p className='leading-8 text-lg'>
-            I am a web developer from Jabalpur, Madhya Pradesh. I am passionate about building exellent web-applications that improves the lives of those around me.
+            I am a web developer from Jabalpur, Madhya Pradesh. I am quite good at creating MERN stack web application.
           </p>
           </div>
           <div className='flex justify-center items-center lg: my-3' >
